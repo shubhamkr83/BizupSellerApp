@@ -42,6 +42,4 @@ This README provides a concise guide on installing an Appium Java project from a
 7. **Running the Project**
    - With the project dependencies installed and Appium set up, you can now run your Appium Java tests. Use Maven to run your tests by executing `mvn test` within the project directory.
 
-## ScreenShots
-
 
